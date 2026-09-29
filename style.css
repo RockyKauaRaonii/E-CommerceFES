@@ -132,7 +132,10 @@ button:active {
   font-size: 20px;
   border-radius: 4px;
   border: none;
+<<<<<<< HEAD
   text-decoration: none;
+=======
+>>>>>>> 656563efce277faeda9244ce3f13ed4805f289c8
 }
 
 .header__image--wrapper {
@@ -302,4 +305,8 @@ EXPLORE
 
 #explore {
   background-color: rgb(214, 115, 66, 0.1);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 656563efce277faeda9244ce3f13ed4805f289c8
